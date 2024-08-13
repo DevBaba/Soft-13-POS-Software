@@ -38,7 +38,8 @@ setup Quicktill for development and building:
 
 ```bash
 # clone the repository
-git clone https://github.com/Ayuen-madyt/Quicktill.git
+ git clone https://github.com/DevBaba/Soft-13-POS-Software.git
+
 
 # change directory
 cd Quicktill
