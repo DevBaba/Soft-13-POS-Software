@@ -1,6 +1,4 @@
-# Quick Till Point of Sale
-
-![POS](screenshots/quicktill_pos.png)
+# Soft 13 Point of Sale
 
 Desktop Point of Sale app built with electron
 
